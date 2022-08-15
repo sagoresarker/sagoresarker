@@ -1,14 +1,13 @@
 ### Hi there 👋,
 
-Myself Sagore Sarker. Curently I'm a B.Sc third-year(6th Semester) of Computer Science and Engineering student working towards a career in Backend Engineer (Python and Golang). I'm improving my skills in API development for distributed systems, FAST API, Golang, Flask, Docker, Redis, Microservices, MongoDB, and PostgreSQL, AWS and GCP. I'm also writing on the Medium blog on the Tech sector. I'm a problem-solver on the Leetcode platform.
+Myself Sagore Sarker. Curently I'm a B.Sc third-year(6th Semester) of Computer Science and Engineering student working towards a career in Backend Engineer (Python and Golang). 
+I'm improving my skills in API development for distributed systems, FAST API, Golang, Flask, Docker, Redis, Microservices, MongoDB, and PostgreSQL, AWS and GCP. 
+I'm also writing on the Medium blog on the Tech sector. I'm a problem-solver on the Leetcode platform.
 
 In short, I'm in love with Backend especially large-scale distributed systems, and working towards developing my skillset and trying to build some interesting stuff.
 
 - 📫 How to reach me: ...
 Email: sagoresarker.cse@gmail.com
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sagoresarker)](https://git.io/streak-stats)
 
 <!--
 **sagoresarker/sagoresarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
