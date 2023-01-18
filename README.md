@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-Myself Sagore Sarker. Curently I'm a B.Sc third-year(6th Semester) of Computer Science and Engineering student working towards a career in Backend Engineer (Python and Golang). 
+Myself Sagore Sarker. Curently I'm a B.Sc fourth-year(7th Semester) of Computer Science and Engineering student working towards a career in Backend Engineer (Python and Golang). 
 I'm improving my skills in API development for distributed systems, FAST API, Golang, Flask, Docker, Redis, Microservices, MongoDB, and PostgreSQL, AWS and GCP. 
 I'm also writing on the Medium blog on the Tech sector. I'm a problem-solver on the Leetcode platform.
 
