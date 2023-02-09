@@ -8,6 +8,7 @@ In short, I'm in love with Backend especially large-scale distributed systems, a
 
 - 📫 How to reach me: ...
 Email: sagoresarker.cse@gmail.com
+- 💬 My personal blog: www.backendbyte.com
 
 <!--
 **sagoresarker/sagoresarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
