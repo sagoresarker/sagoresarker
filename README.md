@@ -9,13 +9,14 @@ In short, I'm in love with Backend especially large-scale distributed systems, a
 - 🔭 I’m currently working on Backend Designing (Using Python Django)
 - 🌱 I’m currently learning JavaScript and NodeJS
 - 📫 How to reach me: sagoresarker.cse@gmail.com
-- 💬 My personal blog: www.backendbyte.com
 - ⚡ My Linkedin profile: https://www.linkedin.com/in/sagore-sarker/
 
 <!--
 **sagoresarker/sagoresarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Sagore's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagoresarker)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
+
+- 💬 My personal blog: www.backendbyte.com
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
