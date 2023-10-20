@@ -1,5 +1,8 @@
 ### Hi there 👋,
 
+![](https://komarev.com/ghpvc/?username=your-github-username&base=100)
+![](https://komarev.com/ghpvc/?username=sagoresarker&label=PROFILE+VIEWS&base=100)
+
 Myself Sagore Sarker. Currently, I'm a B.Sc fourth-year(8th Semester) Computer Science and Engineering student working towards a career as a Backend Engineer (Python and NodeJS). 
 I'm improving my skills in API development for distributed systems, FAST API, Flask, Docker, Redis, Microservices, PostgreSQL, and AWS. 
 I'm also writing on the Medium blog on the Tech sector. I'm a problem-solver on the Leetcode platform.
