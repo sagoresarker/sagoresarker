@@ -10,7 +10,7 @@ In short, I'm in love with the Backend, especially large-scale distributed syste
 - 🌱 I’m currently learning JavaScript and NodeJS
 - 📫 How to reach me: sagoresarker.cse@gmail.com
 - ⚡ My LinkedIn profile: https://www.linkedin.com/in/sagore-sarker/
-- - 💬 My personal blog: www.backendbyte.com
+- 💬 My personal blog: www.backendbyte.com
 
 <!--
 **sagoresarker/sagoresarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
