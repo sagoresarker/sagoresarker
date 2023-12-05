@@ -9,10 +9,9 @@ I'm also writing on the Medium blog on the Tech sector. I'm a problem-solver on 
 In short, I'm in love with the Backend, especially large-scale distributed systems, and working towards developing my skillset and trying to build some interesting stuff.
 
 - 🔭 I’m currently working as a Software Engineer Intern (Poridhi.io)
-- 🌱 I’m currently learning JavaScript and NodeJS
 - 📫 How to reach me: sagoresarker.cse@gmail.com
 - ⚡ My LinkedIn profile: https://www.linkedin.com/in/sagore-sarker/
-- 💬 My personal blog: www.backendbyte.com
+- 💬 My blog: www.backendbyte.com
 
 <!--
 **sagoresarker/sagoresarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
