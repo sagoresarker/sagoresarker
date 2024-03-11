@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sagoresarker&label=PROFILE+VIEWS)
 
-Myself Sagore Sarker. Currently, I'm a Computer Science and Engineering graduate and working as a Junior DevOps Engineer at Poridhi.
+Myself Sagore Sarker. I'm a Computer Science and Engineering graduate and working as a Junior DevOps Engineer at Poridhi.io .
 
 In short, I'm in love with the Backend, especially large-scale distributed systems, and working towards developing my skillset and trying to build some interesting stuff.
 
