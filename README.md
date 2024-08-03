@@ -1,10 +1,10 @@
 ### Hi there 👋,
 
-Myself Sagore Sarker. I'm a Computer Science and Engineering graduate and working as a Junior DevOps Engineer at Poridhi.io .
+Myself Sagore Sarker. I'm a Computer Science and Engineering graduate and working as a Junior Backend Engineer at Poridhi.io .
 
 In short, I'm in love with the Backend, especially large-scale distributed systems, and working towards developing my skillset and trying to build some interesting stuff.
 
-- 🔭 I’m currently working as a Junior DevOps Engineer (Poridhi.io)
+- 🔭 I’m currently working as a Junior Backend Engineer (Poridhi.io)
 - 🔭 I’m currently working on microvm technology and distributed system
 - 👯 I’m looking to collaborate on System Level Golang and Rust project
 - 📫 How to reach me: sagoresarker.cse@gmail.com
